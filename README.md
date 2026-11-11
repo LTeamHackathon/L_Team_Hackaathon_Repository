@@ -54,8 +54,4 @@ About 30 candidate files from four group members were compared on the same peopl
 
 ## Group L
 
-| Name | Contribution |
-|---|---|
-| Israt | Notebook (EDA, tuned models, cost analysis), XGBoost and random forest submissions, final comparison |
-| | |
-| | |
+
