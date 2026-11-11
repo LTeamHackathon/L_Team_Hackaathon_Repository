@@ -49,10 +49,3 @@ The five files above had the lowest expected cost under the evidence-based 0.5% 
 - Expected costs are estimates; the real cost depends on who actually accepts and on the assessors' own hospitalisation assumptions.
 - If the true risk is higher (about 1.5%), all five files would still beat sending no vaccines, but would send fewer doses than is ideal.
 
-## Team
-
-| Name | Contribution |
-|---|---|
-| Israt | Notebook (EDA, tuned models, cost analysis), XGBoost and random forest submissions, final comparison |
-| | Ensemble, tuned gradient boosting and HistGradientBoosting submissions |
-| | |
